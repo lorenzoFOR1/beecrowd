@@ -71,3 +71,44 @@ total = quantidade1 * valor1 + quantidade2 * valor2
 
 print(f"VALOR A PAGAR: R$ {total:.2f}")
 '''
+#beecrowd 1019
+'''
+segundos = int(input())
+horas = segundos//3600
+segundos %= 3600
+minutos = 
+print()
+'''
+#beecrowd 1017
+
+horas = int(input())
+velocidade = int(input())
+kml = horas*velocidade/2
+print(kml)
+
+
+
+
+
+
+
+
+
+
+
+
+
+#beecrowd 1026
+'''
+inteiros = input().split()
+inteiros1 = input().split()
+soma = inteiros - inteiros1
+while True:
+    try:
+        inteiros = input().split()
+        inteiros1 = input().split()
+        soma = inteiros - inteiros1
+    except EOFError:
+        break
+'''
+
